@@ -163,7 +163,7 @@ java LibraryApp
 Dhanush and Group
 Jeethendra 
 Harshavardhan Y G
-Gurukiran M L 
+Guru Kiran M L 
 Chandan T D
 Dileep S
 
